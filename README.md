@@ -1,1 +1,2 @@
 # course
+print('Hello world')
