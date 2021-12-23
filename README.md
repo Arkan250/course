@@ -1,2 +1,0 @@
-# course
-print('Hello world')
